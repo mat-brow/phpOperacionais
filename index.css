@@ -41,7 +41,7 @@ body {
 form {
     display: flex;
     flex-direction: column;
-    gap: 15px; /* 👈 funciona melhor que column-gap */
+    gap: 15px;
     align-items: center;
 }
 
